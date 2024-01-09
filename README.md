@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-NOIR.png"  />
+  <img height="100" src="https://th.bing.com/th/id/R.1257d961f4b75217c1cc5452745b5fb8?rik=IvchFXAX149lDQ&riu=http%3a%2f%2feip.epitech.eu%2f2014%2fequigestion%2fimg%2fepitech-logo.png&ehk=HnoI2P0POm%2fj3tCUbDkWo8Cfj9fMVg8g4RjoMcY%2fLRQ%3d&risl=&pid=ImgRaw&r=0"  />
 </div>
 
 ###
